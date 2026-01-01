@@ -344,6 +344,5 @@ Client Management → Federated Server → Trust Evaluation → Secure Aggregati
        ↓                    ↓                  ↓               ↓
 Security Module ←→ Blockchain Audit ←→ Admin Dashboard ←→ Configuration
 This modular architecture ensures separation of concerns, scalability, and maintainability while providing comprehensive functionality for trust-aware federated learning in healthcare applications.
-Poongulam1@
-SashankGopalan020405
+
 
